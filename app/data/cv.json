@@ -182,7 +182,7 @@
             "what": "Krata",
             "where": { "location": "205TF", "city": "", "country": "France" },
             "when": { "start": "2024-06", "end": "" },
-            "description": "",
+            "description": "[Krata](https://www.205.tf/krata) is a generative, minimalist variable font, created with Python, that explores the boundaries of type design.",
             "visible": true
         }
     ],
@@ -381,7 +381,7 @@
             "what": "Krata is a Typeface that Bridges Design and Programming",
             "where": { "location": "Print Magazine", "city": "online", "country": "" },
             "when": { "start": "2024-06", "end": "" },
-            "description": "Reviewed by Kim Tidwell.",
+            "description": "[Reviewed by Kim Tidwell.](https://www.printmag.com/type-tuesday/krata-typeface-remi-forte/)",
             "visible": true
         },
         {
