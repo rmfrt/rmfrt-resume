@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-    title: "Resume",
-    description: "",
+    title: "Rémi Forte – Resume",
+    description: "Rémi Forte’s professional resume.",
 };
 
 export default function RootLayout({ children }) {
