@@ -7,6 +7,16 @@ export default async function Home() {
 
         return (
             <div className="max-w-lg px-4 mx-auto my-8">
+                <h1 className="mb-20 text-2xl font-semibold">
+                    <a
+                        className="hover:text-neutral-400"
+                        href="https://www.rmfrt.com/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Rémi Forte
+                    </a>
+                </h1>
                 <div className="flex flex-col gap-20">
                     {Object.entries(data).map(([category, elements]) => (
                         <section className="flex flex-col gap-4" key={category}>
