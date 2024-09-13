@@ -3,25 +3,12 @@ import ReactMarkdown from "react-markdown";
 export default function CvCardWhere({ children }) {
     const { location, city, country } = children || {};
 
-    if (!city && !country) {
-        return <p className="text-lg text-neutral-400">{location}</p>;
-    }
-
-    if (!city) {
-        return (
-            <p className="text-lg text-neutral-400">
-                {location} ({country})
-            </p>
-        );
-    }
-
-    if (!country) {
-        return (
-            <p className="text-lg text-neutral-400">
-                {location} ({city})
-            </p>
-        );
-    }
+    const getLocationDisplay = () => {
+        if (!city && !country) return location;
+        if (!city) return `${location} (${country})`;
+        if (!country) return `${location} (${city})`;
+        return `${location} (${city}, ${country})`;
+    };
 
     return (
         <p className="text-lg text-neutral-400">
@@ -42,9 +29,8 @@ export default function CvCardWhere({ children }) {
                     ),
                 }}
             >
-                {location}
-            </ReactMarkdown>{" "}
-            ({city}, {country})
+                {getLocationDisplay()}
+            </ReactMarkdown>
         </p>
     );
 }
