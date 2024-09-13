@@ -13,7 +13,11 @@
         },
         {
             "what": "Typography Lecturer",
-            "where": { "location": "Strate école de design", "city": "Lyon", "country": "France" },
+            "where": {
+                "location": "[Strate école de design](https://www.strate.design/ecole-design/strate-ecole-design-campus-lyon)",
+                "city": "Lyon",
+                "country": "France"
+            },
             "when": { "start": "2019", "end": "NOW" },
             "description": "Teach typography principles, focusing on typeface selection, usage, and foundational design concepts.",
             "visible": true
