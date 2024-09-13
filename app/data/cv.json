@@ -2,7 +2,11 @@
     "Experience": [
         {
             "what": "Foundry Manager",
-            "where": { "location": "205TF", "city": "Lyon", "country": "France" },
+            "where": {
+                "location": "[205TF](https://www.205.tf)",
+                "city": "Lyon",
+                "country": "France"
+            },
             "when": { "start": "2019", "end": "NOW" },
             "description": "Lead type design projects, manage client relationships, and develop communication strategies.",
             "visible": true
