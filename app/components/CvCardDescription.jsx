@@ -1,4 +1,3 @@
-// import { createMarkup } from "../utils/markdown";
 import ReactMarkdown from "react-markdown";
 
 export default function CvCardDescription({ children }) {
