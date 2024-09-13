@@ -179,13 +179,13 @@
     ],
     "Publications": [
         {
-            "what": "*Introspection*",
+            "what": "Introspection",
             "where": { "location": "Container", "city": "Pittsburgh", "country": "USA" },
             "when": { "start": "2024-10", "end": "" },
             "visible": true
         },
         {
-            "what": "*Experimenting is Above All a Process*",
+            "what": "Experimenting is Above All a Process",
             "where": {
                 "location": "Slanted Magazine #40",
                 "city": "Karlsruhe",
@@ -195,7 +195,7 @@
             "visible": true
         },
         {
-            "what": "*XOXO*",
+            "what": "XOXO",
             "where": {
                 "location": "Revue Dire #1",
                 "city": "Tours",
@@ -205,7 +205,7 @@
             "visible": true
         },
         {
-            "what": "*Airplane Crash*",
+            "what": "Airplane Crash",
             "where": {
                 "location": "Paper View Publishing",
                 "city": "Leiria",
@@ -216,7 +216,7 @@
         },
 
         {
-            "what": "*The Spectre of Mallarmé*",
+            "what": "The Spectre of Mallarmé",
             "where": {
                 "location": "No Press",
                 "city": "Banff",
@@ -226,7 +226,7 @@
             "visible": true
         },
         {
-            "what": "*Extase*",
+            "what": "Extase",
             "where": {
                 "location": "Revue Revu #9",
                 "city": "Laxou",
@@ -236,7 +236,7 @@
             "visible": true
         },
         {
-            "what": "*sans langage Pensées*",
+            "what": "sans langage Pensées",
             "where": {
                 "location": "Revue Formules #22",
                 "city": "Buffalo",
@@ -246,7 +246,7 @@
             "visible": true
         },
         {
-            "what": "*Pour avoir un accent il faut être deux*",
+            "what": "Pour avoir un accent il faut être deux",
             "where": {
                 "location": "Revue Sabir #2",
                 "city": "Bruxelles",
