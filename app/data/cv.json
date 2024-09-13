@@ -148,7 +148,11 @@
         },
         {
             "what": "TypoFilm #2: Helvetica",
-            "where": { "location": "Centre Pompidou", "city": "Paris", "country": "France" },
+            "where": {
+                "location": "[Centre Pompidou](https://www.centrepompidou.fr/fr/programme/agenda/evenement/1qv6nQQ)",
+                "city": "Paris",
+                "country": "France"
+            },
             "when": { "start": "2022-02", "end": "" },
             "description": "Presented an overview of the Helvetica typeface, accompanying a screening of experimental films from the museum’s collection.",
             "visible": true
@@ -197,14 +201,18 @@
     "Publications": [
         {
             "what": "Introspection",
-            "where": { "location": "Container", "city": "", "country": "USA" },
+            "where": {
+                "location": "[Container](https://acontainer.co/projects/look-book-2024/)",
+                "city": "",
+                "country": "USA"
+            },
             "when": { "start": "2024-10", "end": "" },
             "visible": true
         },
         {
             "what": "Experimenting is Above All a Process",
             "where": {
-                "location": "Slanted Magazine #40",
+                "location": "[Slanted Magazine #40](https://www.slanted.de/product/slanted-magazine-40-experimental-type/)",
                 "city": "",
                 "country": "Germany"
             },
@@ -212,9 +220,9 @@
             "visible": true
         },
         {
-            "what": "XOXO",
+            "what": "X, O, Cross, Circle",
             "where": {
-                "location": "Revue Dire #1",
+                "location": "[Revue Dire #1](https://www.tierslivre.net/revue/spip.php?article849)",
                 "city": "",
                 "country": "France"
             },
@@ -224,7 +232,7 @@
         {
             "what": "Airplane Crash",
             "where": {
-                "location": "Paper View Publishing",
+                "location": "[Paper View Publishing](https://paperviewbooks.pt/)",
                 "city": "",
                 "country": "Portugal"
             },
@@ -235,7 +243,7 @@
         {
             "what": "The Spectre of Mallarmé",
             "where": {
-                "location": "No Press",
+                "location": "[No Press](https://derekbeaulieu.ca/no-press/)",
                 "city": "",
                 "country": "Canada"
             },
@@ -387,9 +395,13 @@
     "Press Review": [
         {
             "what": "Krata is a Typeface that Bridges Design and Programming",
-            "where": { "location": "Print Magazine", "city": "online", "country": "" },
+            "where": {
+                "location": "[Print Magazine](https://www.printmag.com/type-tuesday/krata-typeface-remi-forte/)",
+                "city": "",
+                "country": "USA"
+            },
             "when": { "start": "2024-06", "end": "" },
-            "description": "[Reviewed by Kim Tidwell.](https://www.printmag.com/type-tuesday/krata-typeface-remi-forte/)",
+            "description": "Reviewed by Kim Tidwell.",
             "visible": true
         },
         {
