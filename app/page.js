@@ -6,8 +6,8 @@ export default async function Home() {
         const data = await readCvData();
 
         return (
-            <div className="max-w-lg px-4 mx-auto my-8">
-                <h1 className="mb-20 text-2xl font-semibold">
+            <div className="max-w-lg px-4 mx-auto my-12">
+                <h1 className="mb-10 text-lg font-semibold text-center">
                     <a
                         className="hover:text-neutral-400"
                         href="https://www.rmfrt.com/"
