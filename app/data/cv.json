@@ -177,10 +177,19 @@
             "when": { "start": "2016-04", "end": "" }
         }
     ],
+    "Typefaces": [
+        {
+            "what": "Krata",
+            "where": { "location": "205TF", "city": "", "country": "France" },
+            "when": { "start": "2024-06", "end": "" },
+            "description": "",
+            "visible": true
+        }
+    ],
     "Publications": [
         {
             "what": "Introspection",
-            "where": { "location": "Container", "city": "Pittsburgh", "country": "USA" },
+            "where": { "location": "Container", "city": "", "country": "USA" },
             "when": { "start": "2024-10", "end": "" },
             "visible": true
         },
@@ -188,7 +197,7 @@
             "what": "Experimenting is Above All a Process",
             "where": {
                 "location": "Slanted Magazine #40",
-                "city": "Karlsruhe",
+                "city": "",
                 "country": "Germany"
             },
             "when": { "start": "2022-10", "end": "" },
@@ -198,7 +207,7 @@
             "what": "XOXO",
             "where": {
                 "location": "Revue Dire #1",
-                "city": "Tours",
+                "city": "",
                 "country": "France"
             },
             "when": { "start": "2022-04", "end": "" },
@@ -208,7 +217,7 @@
             "what": "Airplane Crash",
             "where": {
                 "location": "Paper View Publishing",
-                "city": "Leiria",
+                "city": "",
                 "country": "Portugal"
             },
             "when": { "start": "2022-01", "end": "" },
@@ -219,7 +228,7 @@
             "what": "The Spectre of Mallarmé",
             "where": {
                 "location": "No Press",
-                "city": "Banff",
+                "city": "",
                 "country": "Canada"
             },
             "when": { "start": "2022-01", "end": "" },
@@ -229,7 +238,7 @@
             "what": "Extase",
             "where": {
                 "location": "Revue Revu #9",
-                "city": "Laxou",
+                "city": "",
                 "country": "France"
             },
             "when": { "start": "2021-12", "end": "" },
@@ -239,7 +248,7 @@
             "what": "sans langage Pensées",
             "where": {
                 "location": "Revue Formules #22",
-                "city": "Buffalo",
+                "city": "",
                 "country": "USA"
             },
             "when": { "start": "2021-03", "end": "" },
@@ -249,7 +258,7 @@
             "what": "Pour avoir un accent il faut être deux",
             "where": {
                 "location": "Revue Sabir #2",
-                "city": "Bruxelles",
+                "city": "",
                 "country": "Belgium"
             },
             "when": { "start": "2020-02", "end": "" },
@@ -377,7 +386,7 @@
         },
         {
             "what": "Épanouissement Personnel",
-            "where": { "location": "Étapes Magazine #240", "city": "Paris", "country": "France" },
+            "where": { "location": "Étapes Magazine #240", "city": "", "country": "France" },
             "when": { "start": "2017-10", "end": "" },
             "description": "Reviewed by Marion Bothorel.",
             "visible": true
